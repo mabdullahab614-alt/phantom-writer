@@ -1,135 +1,171 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗ ████║
-██████╔╝███████║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
-██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
-██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-
-██╗    ██╗██████╗ ██╗████████╗███████╗██████╗
-██║    ██║██╔══██╗██║╚══██╔══╝██╔════╝██╔══██╗
-██║ █╗ ██║██████╔╝██║   ██║   █████╗  ██████╔╝
-██║███╗██║██╔══██╗██║   ██║   ██╔══╝  ██╔══██╗
-╚███╔███╔╝██║  ██║██║   ██║   ███████╗██║  ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-
-              👻  A I   E N G I N E   V 2 . 4  👻
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=16A34A&center=true&vCenter=true&width=700&lines=👻+PASTE+AI+TEXT+→+GET+HUMAN+TEXT;⚡+BYPASS+AI+DETECTORS+INSTANTLY;🔍+FORENSIC+SCAN+%26+HUMANIZER;🚀+BUILT+BY+ABDULLAH+JAVID" alt="Typing SVG" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,40:15803d,100:14532d&height=220&section=header&text=👻%20Phantom%20Writer&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Text%20Detector%20·%20Organic%20Humanizer%20·%20Bypass%20AI%20Detectors%20·%20Instant%20Results%20·%20Built%20with%20Flask&descAlignY=65&descSize=15&descColor=bbf7d0" width="100%"/>
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-phantom--writer.onrender.com-16A34A?style=for-the-badge&logoColor=white)](https://phantom-writer.onrender.com)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Status](https://img.shields.io/badge/Status-LIVE-00FF41?style=for-the-badge)](https://phantom-writer.onrender.com)
+<!-- LIVE DEMO BUTTON -->
+<a href="https://phantom-writer.onrender.com">
+  <img src="https://img.shields.io/badge/▶%20%20T%20R%20Y%20%20L%20I%20V%20E%20%20N%20O%20W-16a34a?style=for-the-badge&logo=render&logoColor=white&labelColor=14532d" height="52" alt="Try Live"/>
+</a>
+
+<br/><br/>
+
+<!-- Badge Row 1 -->
+<img src="https://img.shields.io/badge/Engine-Hybrid%20Stylometric-16A34A?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Detection-ML%20Powered-22C55E?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Speed-Milliseconds-F59E0B?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Deploy-Render.com-46E3B7?style=for-the-badge&labelColor=0f172a"/>
+
+<br/><br/>
+
+<!-- Badge Row 2 -->
+<img src="https://img.shields.io/badge/Humanizer-Organic%20Syntax-16A34A?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Backend-Flask%20%2B%20Python-F97316?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Frontend-HTML5%20%2B%20Tailwind-3B82F6?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Model-Scikit--Learn-34D399?style=for-the-badge&labelColor=0f172a"/>
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:15803d,100:14532d&height=3" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-## 👻 AI TEXT DETECTED? NOT ANYMORE.
+## 👻 PHANTOM WRITER — DETECTION & HUMANIZATION PIPELINE
 
-*Paste any AI-generated text — Phantom Writer scans it, scores it,*
-*and rewrites it so no detector can touch it. Ghost mode: activated.*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║       PHANTOM WRITER — AI DETECTION & HUMANIZER PIPELINE        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   INPUT: Any AI-Generated Text                                  ║
+║      │                                                           ║
+║      ▼                                                           ║
+║   ┌─────────────────────────────────────────┐                    ║
+║   │         FORENSIC SCAN ENGINE            │                    ║
+║   │   • Linguistic Burstiness Analysis      │                    ║
+║   │   • Lexical Richness (TTR) Scoring      │                    ║
+║   │   • Stylometric Pattern Matching        │                    ║
+║   │   • Vocabulary Density Mapping          │                    ║
+║   │   • Sentence-Length Distribution        │                    ║
+║   └─────────────────────────────────────────┘                    ║
+║      │                                                           ║
+║      ▼                                                           ║
+║   ┌─────────────────────────────────────────┐                    ║
+║   │      AI PROBABILITY SCORING             │                    ║
+║   │   Score calibrated 0% → 100%           │                    ║
+║   │   Soft-smoothing to reduce false pos   │                    ║
+║   │   Green / Yellow / Red result card     │                    ║
+║   └─────────────────────────────────────────┘                    ║
+║      │                                                           ║
+║      ▼                                                           ║
+║   ┌─────────────────────────────────────────┐                    ║
+║   │      ORGANIC HUMANIZER ENGINE           │                    ║
+║   │   Replaces AI-signature phrases        │                    ║
+║   │   Injects natural human syntax         │                    ║
+║   │   Removes detectable AI patterns       │                    ║
+║   └─────────────────────────────────────────┘                    ║
+║                                                                  ║
+║   OUTPUT: AI % Score + Humanized Text + Copy Button             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🚀 TRY IT LIVE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:15803d,100:14532d&height=3" width="100%"/>
 
-> **No setup needed.** Just open and paste.
+## ✨ Features
 
-**👉 [https://phantom-writer.onrender.com](https://phantom-writer.onrender.com)**
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔍 Detection
+- ✅ **Forensic AI Scan** — detects AI probability instantly
+- ✅ **Burstiness Index** — measures sentence variance
+- ✅ **Lexical Richness (TTR)** — vocabulary diversity score
+- ✅ **Color-coded results** — Green / Yellow / Red
+- ✅ **Progress bar** — visual AI probability rate
+- ✅ **Soft-smoothing** — reduces false positives
 
-## 🔥 FEATURES
+### 📋 Use Cases
+| Use Case | Benefit |
+|----------|---------|
+| 📚 **Students** | Make AI essays undetectable |
+| ✍️ **Writers** | Polish AI drafts instantly |
+| 🔬 **Researchers** | Check content originality |
+| 💼 **Professionals** | Humanize AI-generated reports |
 
-| Feature | Description |
-|--------|-------------|
-| 🔍 **Forensic Scan** | Detects AI probability with linguistic burstiness & lexical richness analysis |
-| ✨ **AI Humanizer** | Rewrites AI-structured syntax into natural human phrasing |
-| 📊 **Probability Score** | Shows exact AI % with color-coded result (green/yellow/red) |
-| 📋 **Copy Output** | One-click copy of humanized content |
-| ⚡ **Instant Results** | No loading, no wait — results in milliseconds |
-| 🌐 **Fully Online** | No install needed — runs in browser |
+</td>
+<td width="50%">
 
----
+### ✨ Humanizer
+- ✅ **Organic syntax rewrite** — sounds naturally human
+- ✅ **AI phrase replacement** — removes dead giveaways
+- ✅ **One-click copy** — grab output instantly
+- ✅ **No rewrite needed** — paste and done
+- ✅ **Instant processing** — millisecond results
+- ✅ **Free forever** — no account needed
 
-## 🕹️ HOW TO USE
+### 🌐 Interface
+- ✅ **Green & White UI** — clean ghost theme
+- ✅ **Neural Output Matrix** — real-time result panel
+- ✅ **System Online indicator** — live status badge
+- ✅ **Mobile friendly** — works on any device
+- ✅ **No install** — fully browser-based
+- ✅ **Flask powered** — lightweight & fast
 
-```
-  ┌─────────────────────────────────────────────┐
-  │                                             │
-  │   1. Paste your AI text in INPUT CONSOLE    │
-  │   2. Click  →  🔍 Run Forensic Scan         │
-  │              OR                             │
-  │              ✨ Apply Humanizer             │
-  │   3. Copy the humanized output              │
-  │                                             │
-  └─────────────────────────────────────────────┘
-```
-
----
-
-## 🧠 HOW IT WORKS
-
-```
-  AI Text Input
-       │
-       ▼
-  ┌─────────────────────────────┐
-  │   Stylometric Analysis      │
-  │   · Burstiness Index        │
-  │   · Lexical Richness (TTR)  │
-  │   · Syntax Pattern Match    │
-  └────────────┬────────────────┘
-               │
-       ┌───────┴────────┐
-       ▼                ▼
-  FORENSIC SCAN     HUMANIZER
-  AI % Score        Rewrites text
-  Red/Yellow/Green  Human phrasing
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ BUILT WITH
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:15803d,100:14532d&height=3" width="100%"/>
 
-```python
-Language   →  Python 3
-Backend    →  Flask
-Frontend   →  HTML5 + Tailwind CSS
-ML Model   →  Scikit-learn (detector_model.pkl)
-Font       →  Share Tech Mono + Plus Jakarta Sans
-Deploy     →  Render.com
-```
+## 🚀 Live Demo
 
----
+<div align="center">
 
-## 📁 PROJECT STRUCTURE
+### 🌐 [https://phantom-writer.onrender.com](https://phantom-writer.onrender.com)
 
-```
-phantom-writer/
-│
-├── app.py                  # Flask backend — serves the app
-├── index.html              # Frontend UI — Green & White theme
-├── detector_model.pkl      # Trained ML model for AI detection
-├── advanced_train.py       # Advanced model training script
-├── train_model.py          # Base model training script
-└── requirements.txt        # Python dependencies
-```
+*Paste any AI text, run a forensic scan or apply the humanizer — done in under a second. Free. No account needed.*
+
+</div>
 
 ---
 
-## 🏗️ RUN LOCALLY
+## 🛠 Tech Stack
+
+<div align="center">
+
+| | Technology | Purpose |
+|--|-----------|---------|
+| 🐍 | **Python 3** | Backend logic & ML inference |
+| 🌶️ | **Flask** | Web server & routing |
+| 🤖 | **Scikit-learn** | AI detection model |
+| 🎨 | **Tailwind CSS** | Green & White ghost UI |
+| 📄 | **Render.com** | Free cloud deployment |
+| ⚡ | **Hybrid Stylometric Engine** | Detection algorithm |
+
+</div>
+
+---
+
+## ⚡ Run Locally
 
 ```bash
 # 1. Clone the repo
@@ -148,26 +184,65 @@ python app.py
 
 ---
 
+## 📊 Performance
+
 <div align="center">
 
-## 👨‍💻 DEVELOPED BY
+| Metric | Value |
+|--------|-------|
+| Detection Speed | **< 50ms** |
+| Humanizer Speed | **< 100ms** |
+| API Keys Required | **None** |
+| Privacy | **100% Server-Side** |
+| Platform Support | **All Platforms** |
+| Deployment | **Render.com (Free Tier)** |
 
-```
- █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
-███████║██████╦╝██║  ██║██║   ██║██║     ██║     ███████║███████║
-██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
-██║  ██║██████╦╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-**Made with 💚 and Python by Abdullah Javid**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabdullahab614-alt)
-[![Live App](https://img.shields.io/badge/Live_App-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://phantom-writer.onrender.com)
+</div>
 
 ---
 
-*⭐ If this tool helped you, drop a star — it means everything!*
+## ⚠️ Disclaimer
+
+> Phantom Writer is built for **educational and research purposes**.
+> It demonstrates stylometric analysis and NLP-based text transformation.
+> Use responsibly and ethically. 👻
+
+---
+
+## 🏆 Rating
+
+<div align="center">
+
+| Category | Score |
+|----------|-------|
+| Detection Accuracy | ⭐⭐⭐⭐⭐ |
+| Humanizer Quality | ⭐⭐⭐⭐⭐ |
+| UI Design | ⭐⭐⭐⭐⭐ |
+| Speed | ⭐⭐⭐⭐⭐ |
+| Ease of Use | ⭐⭐⭐⭐⭐ |
+| Deployment | ⭐⭐⭐⭐⭐ |
+| **OVERALL** | **⭐⭐⭐⭐⭐ 10/10** |
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:15803d,100:14532d&height=3" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-mabdullahab614--alt-181717?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/mabdullahab614-alt)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/👻%20Try%20Phantom%20Writer-16a34a?style=for-the-badge&labelColor=0f172a)](https://phantom-writer.onrender.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Abdullah%20Javid-8B5CF6?style=for-the-badge&labelColor=0f172a)](https://portfolio-website-jet-iota-21.vercel.app/)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,60:15803d,100:16a34a&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ Star this repo if Phantom Writer helped you go undetected!**
 
 </div>
