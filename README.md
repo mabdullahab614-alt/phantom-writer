@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/Speed-Milliseconds-F59E0B?style=for-the-badge&labelColor=0f172a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Deploy-Render.com-46E3B7?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<a href="#-license"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=0f172a"/></a>
 
 <br/><br/>
 
@@ -227,6 +229,24 @@ python app.py
 
 ---
 
+## 📜 License
+
+**All Rights Reserved © 2026 Abdullah Javid**
+
+This repository and its contents — including source code, detection engine, and documentation — are made publicly visible **for portfolio and demonstration purposes only**.
+
+**No part of this repository may be copied, modified, distributed, sublicensed, or used** — in whole or in part, for personal, educational, or commercial purposes — without explicit prior written permission from the author.
+
+Forking or cloning this repository does **not** grant any rights to use, reproduce, or redistribute its contents.
+
+If you are interested in using any part of this project, please contact me directly for permission:
+
+📧 **Email:** mabdullah.ab614@gmail.com
+🔗 **GitHub:** [github.com/mabdullahab614-alt](https://github.com/mabdullahab614-alt)
+💼 **LinkedIn:** [linkedin.com/in/abdullah-javid-b217a2384](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:15803d,100:14532d&height=3" width="100%"/>
 
 <div align="center">
@@ -234,6 +254,10 @@ python app.py
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mabdullahab614--alt-181717?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/mabdullahab614-alt)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-mabdullah.ab614%40gmail.com-ff2d2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:mabdullah.ab614@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
 &nbsp;
 [![Live Demo](https://img.shields.io/badge/👻%20Try%20Phantom%20Writer-16a34a?style=for-the-badge&labelColor=0f172a)](https://phantom-writer.onrender.com)
 &nbsp;
